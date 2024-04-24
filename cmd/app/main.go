@@ -9,6 +9,7 @@ import (
 
 	"github.com/diegom0ta/gofiber-study/internal/config"
 	db "github.com/diegom0ta/gofiber-study/internal/database"
+	"github.com/diegom0ta/gofiber-study/internal/http/server"
 )
 
 func main() {
